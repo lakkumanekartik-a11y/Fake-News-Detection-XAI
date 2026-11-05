@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+requests
+beautifulsoup4
+trafilatura
+lxml
+spacy
+transformers
+torch
+sentencepiece
+lime
+pytest
+python-dotenv

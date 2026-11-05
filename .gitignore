@@ -1,0 +1,40 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Large model files
+*.joblib
+*.pkl
+*.pickle
+
+# Temporary files
+*.tmp
+*.bak
